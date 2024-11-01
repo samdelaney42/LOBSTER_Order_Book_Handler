@@ -1,4 +1,4 @@
-# L2_Order_Book_Handler
+# LOBSTER_Order_Book_Handler
 This project parses message data form the LOBSTER data set and constructs an order book.
 
 The Buy and Sell side of the book are represented by Binary Search Trees where each node is a limit price.
